@@ -24,10 +24,3 @@ The workflow diagram illustrates the end-to-end AI development process for this 
 5. **Optimization & Monitoring** → mitigate overfitting, retrain periodically, ensure compliance with healthcare regulations.  
 6. **Critical Thinking & Reflection** → evaluate ethics, bias, trade-offs, and workflow effectiveness.
 
-## 🙏 Contributors
-
-- [Teddy Omondi](https://github.com/TeddyO323)
-- [Lara Manga](https://github.com/laracrofty-boss)
-- [Wafula Simiyu Joely](https://github.com/42105627)
-- [Praisey Wairimu](https://github.com/Nice9115)
-- [Sarah Githinji](https://github.com/sarahgithinji)

@@ -62,3 +62,10 @@ Contains:
 - Personal reflection on the workflow  
 
 ---
+## 🙏 Contributors
+
+- [Teddy Omondi](https://github.com/TeddyO323)
+- [Lara Manga](https://github.com/laracrofty-boss)
+- [Wafula Simiyu Joely](https://github.com/42105627)
+- [Praisey Wairimu](https://github.com/Nice9115)
+- [Sarah Githinji](https://github.com/sarahgithinji)
